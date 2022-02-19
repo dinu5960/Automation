@@ -25,6 +25,7 @@ public class StepDefinition {
 			
 			driver.get("https://www.facebook.com/");
 			driver.manage().window().maximize();
+                          //Nataraj
 		   
 		}
 
